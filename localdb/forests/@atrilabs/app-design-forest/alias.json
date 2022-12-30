@@ -1,0 +1,20 @@
+{
+  "Flex": 90,
+  "Div": 159,
+  "TextBox": 214,
+  "Link": 76,
+  "Image": 56,
+  "Button": 24,
+  "Form": 1,
+  "Menu": 1,
+  "UnorderedList": 6,
+  "Carousel": 5,
+  "Cascader": 4,
+  "Overlay": 1,
+  "BarChart": 1,
+  "Accordion": 16,
+  "Testimonial": 1,
+  "Icon": 7,
+  "Input": 4,
+  "Breadcrumb": 1
+}

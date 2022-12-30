@@ -1,0 +1,22 @@
+{
+  "home": {
+    "name": "Home",
+    "route": "/"
+  },
+  "6bfda195-cfd9-455f-9a04-fce4c2e37c34": {
+    "name": "Services",
+    "route": "/Services"
+  },
+  "1b6970d9-e229-49b0-a8a0-9196117de19e": {
+    "name": "projects",
+    "route": "/projects"
+  },
+  "e11d20fe-ae44-46fc-a4e9-a52373c7315f": {
+    "name": "blog",
+    "route": "/blog"
+  },
+  "30997efd-32c8-4167-a4a0-d4744b51d0ad": {
+    "name": "contact",
+    "route": "/contact"
+  }
+}

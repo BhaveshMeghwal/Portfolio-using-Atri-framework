@@ -1,0 +1,56 @@
+.p-Home.TextBox7 {
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    // color: #b16cea;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+.p-Home.Button2::after{
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 100%;
+    top: 15%;
+    left: 7%;
+    z-index: -1;
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+}
+.p-Home.Button6::after{
+    position: absolute;
+    content: " ";
+    width: 100%;
+    height: 100%;
+    top: 15%;
+    left: 7%;
+    z-index: -1;
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+}
+.p-Home.Link2 a{
+    text-decoration: none;
+    color: black;
+}
+.p-Home.Link3 a,.p-Home.Link4 a,.p-Home.Link5 a,.p-Home.Link6 a{
+    text-decoration: none;
+    color: black;
+}
+.p-Home.Link23 a,.p-Home.Link24 a,.p-Home.Link25 a,.p-Home.Link26 a,.p-Home.Link27 a,.p-Home.Link28 a,.p-Home.Link29 a,.p-Home.Link30 a,.p-Home.Link31 a{
+    text-decoration: none;
+    color: white;
+}
+.p-Home.accordian{
+    background-color: black;
+}
+.p-Home.Accordion1 {
+    background-color: transparent;
+}
+.p-Home.Div10 {
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+
+}
+
+.p-Home.TextBox113,.p-Home.TextBox124,.p-Home.TextBox94,.p-Home.TextBox141,.p-Home.TextBox145,.p-Home.TextBox150,.p-Home.TextBox151,.p-Home.TextBox111,.p-Home.TextBox110,.p-Home.TextBox108,.p-Home.TextBox106,.p-Home.TextBox103,.p-Home.TextBox149{
+    display: inline;
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    -webkit-text-fill-color: transparent;
+    letter-spacing: 2px;
+    -webkit-background-clip: text;
+}

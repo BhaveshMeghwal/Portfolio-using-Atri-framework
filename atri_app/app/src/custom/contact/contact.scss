@@ -1,0 +1,26 @@
+.p-contact.Link68 a,.p-contact.Link69 a,.p-contact.Link70 a,.p-contact.Link71 a,
+.p-contact.Link72 a,.p-contact.Link73 a,.p-contact.Link74 a,.p-contact.Link75 a,.p-contact.Link76 a{
+    text-decoration: none;
+    color: white;
+}
+.p-contact.Link63 a,.p-contact.Link64 a,.p-contact.Link65 a,.p-contact.Link66 a,.p-contact.Link67 a{
+    text-decoration: none;
+    color: black;
+}
+.p-contact.Button14::after{
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 100%;
+    top: 25%;
+    left: 15%;
+    z-index: -1;
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+}
+.p-contact.TextBox208{
+    display: inline;
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    -webkit-text-fill-color: transparent;
+    letter-spacing: 2px;
+    -webkit-background-clip: text;
+}
